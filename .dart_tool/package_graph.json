@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "fixit_core"
+  ],
+  "packages": [
+    {
+      "name": "fixit_core",
+      "version": "1.0.0",
+      "dependencies": [
+        "meta"
+      ],
+      "devDependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.18.3",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}
