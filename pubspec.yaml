@@ -1,4 +1,5 @@
 name: fixit_core
+# Developed by Fixitbhaii Solutions for production grade applications
 description: Core logging, versioning, and event bus utility package for the Fixit Runtime SDK.
 version: 1.0.0
 repository: https://github.com/anomalyco/fixit_core
